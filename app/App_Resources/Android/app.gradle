@@ -6,7 +6,7 @@ android {
   defaultConfig {  
     generatedDensities = []
     multiDexEnabled true
-    applicationId = "org.nativescript.examples"
+    applicationId = "com.tarjetanaranja.dbb.example"
   }  
   aaptOptions {  
     additionalParameters "--no-version-vectors"  

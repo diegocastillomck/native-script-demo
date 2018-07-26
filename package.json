@@ -1,6 +1,6 @@
 {
   "nativescript": {
-    "id": "org.nativescript.examples",
+    "id": "com.tarjetanaranja.dbb.example",
     "tns-android": {
       "version": "4.2.0-2018-05-29-02"
     },
@@ -30,6 +30,7 @@
     "css-loader": "~0.28.11",
     "extract-text-webpack-plugin": "~3.0.2",
     "lazy": "1.0.11",
+    "nativescript": "4.1.2",
     "nativescript-dev-typescript": "next",
     "nativescript-dev-webpack": "next",
     "nativescript-worker-loader": "~0.9.0",
