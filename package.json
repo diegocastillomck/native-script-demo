@@ -1,6 +1,6 @@
 {
   "nativescript": {
-    "id": "com.tarjetanaranja.dbb.example",
+    "id": "com.diegocastillo.example",
     "tns-android": {
       "version": "4.2.0-2018-05-29-02"
     },
